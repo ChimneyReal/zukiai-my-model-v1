@@ -1,2 +1,10 @@
+---
 # zukiai-my-model-v1
-A New AI Model For Zukihost
+library_name: transformers
+tags:
+- llm
+- fine-tune
+- text-generation
+- instruction-tuned
+- zuki-ai
+license: apache-2.0 #
